@@ -23,10 +23,9 @@
 
 ---
 
-## 📬 للتواصل
-[GitHub](https://github.com/your-username)  
-[LinkedIn](https://linkedin.com/in/your-profile)  
-[Email](mailto:your.email@example.com)
+## 👋 أهلاً بك!
+✨ سعيد بزيارتك لمعرض أعمالي هنا على GitHub  
+📌 لا تتردد في استكشاف المستودعات والمشاريع
 
 ---
 
